@@ -34,6 +34,8 @@ Em seguida, vamos seguir os mesmos comandinhos de sempre.
 
 Pronto ;)
 
+Olha esse exemplo no github pages: https://richardpassos01.github.io/aula-template-bootstrap/index.html
+
 
 
 
